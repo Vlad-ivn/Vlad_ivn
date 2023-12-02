@@ -298,7 +298,7 @@ justify-content: space-between;
 .featured_projects__grenn-line{
     display: block;
     background-size: cover;
-    background-image: url(..img/featured-line.png);
+    background-image: url(../featured-line.png);
 }
 .featured_projects__grenn-line-text {
     padding: 35px 70px;
